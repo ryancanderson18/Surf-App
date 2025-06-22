@@ -1,14 +1,24 @@
-# Surf App - A Simple app to help understand current Surf conditions
+# Surf App - Swift & Apple Design Best Practices
 
-A basic iOS app to learn app development, and modern day development techniques (Cursor, GPT's, GIT, etc. )
+A comprehensive iOS app demonstrating modern Swift development practices and Apple's Human Interface Guidelines.
+
+## 📱 Screenshots
+
+<div align="center">
+  <img src="screenshots/welcome-screen.png" alt="Welcome Screen" width="300"/>
+  <img src="screenshots/surf-spots-list.png" alt="Surf Spots List" width="300"/>
+</div>
+
+*Welcome screen with difficulty selector and surf spots list with filtering*
 
 ## 🏄‍♂️ Features
 
-- **Surf Conditions**: Check wave height, wind, tide, and water temperature
+- **Real-time Surf Conditions**: Check wave height, wind, tide, and water temperature
 - **Spot Discovery**: Find surf spots near you with difficulty ratings
 - **Modern UI**: Built with SwiftUI following Apple's design principles
 - **Accessibility**: Full VoiceOver support and accessibility features
 - **Dark Mode**: Automatic light/dark mode support
+
 
 
 ## 🚀 Getting Started
@@ -22,6 +32,3 @@ A basic iOS app to learn app development, and modern day development techniques 
 - **iOS 17.0+**
 - **Xcode 15.0+**
 - **Swift 5.9+**
-
-
-Built with ❤️ using Swift and SwiftUI, following Apple's latest design and development guidelines. 
